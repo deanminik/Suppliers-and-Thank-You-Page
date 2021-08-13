@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Radomir-Tinkov-Gilroy-Medium";
+  src: url(../fonts/Radomir-Tinkov-Gilroy-Medium.otf);
+}
+
+.suppliers .hero__title h1::before {
+  background-color: #292929 !important;
+}
+
+.hero__title .grid__item.desk--five-sixths.push--desk--one-twelfth h1 {
+  font-size: 500%;
+  color: #fff !important;
+  padding-bottom: 55px !important;
+}
+
+.message.notice {
+  background-color: #fff !important;
+  border-left: solid 50px #ff5100 !important;
+}
+
+.message.notice p {
+  font-family: Radomir-Tinkov-Gilroy-Medium;
+  font-size: 120%;
+  color: #000000;
+}
+
+.message.notice {
+  padding-left: 7%;
+}
+
+.message {
+  border: 0px solid !important;
+}
+/*# sourceMappingURL=arweb.css.map */
